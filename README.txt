@@ -1,3 +1,4 @@
+
 # Title : Simple-Java-Notepad
 # Author : Kevin C. Magnifico 
 # LICENSE : GPLv3
